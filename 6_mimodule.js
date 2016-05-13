@@ -2,6 +2,7 @@ var fs = require('fs');
 
 var path = require('path');
 
+// this was an annoying module
 // exports one function that takes 3 args:
 // dirname, filext, callback
 
